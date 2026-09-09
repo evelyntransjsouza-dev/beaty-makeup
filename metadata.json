@@ -1,0 +1,6 @@
+{
+  "name": "Beaty Makeup",
+  "description": "Catálogo e landing page exclusiva Beaty Makeup com cosméticos e maquiagens com compra segura via Stripe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
